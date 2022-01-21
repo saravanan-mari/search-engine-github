@@ -7,7 +7,7 @@ return(
         <p>Hey there, We are FireFOX 
             to provide you some pictures
             just enjoy it,contact us if you
-             have any queries ,Thank you.
+             have any queries,Thank you.
         </p>
     </div>
 )
